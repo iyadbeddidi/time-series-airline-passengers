@@ -1,4 +1,4 @@
-# Projet Time Series — Monthly Airline Passengers
+# Projet Time Series : Monthly Airline Passengers
 
 ## Contexte
 Ce projet analyse la série temporelle mensuelle du nombre de passagers aériens de 1949 à 1960. L’objectif est de modéliser le trafic aérien, d’évaluer la saisonnalité et la tendance, puis de produire des prévisions fiables pour l’année 1960.
